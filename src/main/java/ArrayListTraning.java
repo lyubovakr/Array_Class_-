@@ -7,5 +7,7 @@ public class ArrayListTraning {
             arrayList.add(i);
         }
         System.out.println(arrayList);
+        System.out.println(arrayList.get(0));
+        System.out.println(arrayList.get(99));
     }
 }
