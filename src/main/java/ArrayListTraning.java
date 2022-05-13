@@ -9,5 +9,6 @@ public class ArrayListTraning {
         System.out.println(arrayList);
         System.out.println(arrayList.get(5));
         System.out.println(arrayList.get(19));
+        System.out.println(arrayList.size());
     }
 }
